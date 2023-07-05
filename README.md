@@ -72,7 +72,7 @@ Ik heb uitgebreid met mijn vader gesproken over mogelijke verbeteringen. Na het 
 
   Dit kan waarschijnlijk makkelijk opgelost worden door een betere 'semantische' opbouw.
 
-  <img src="readme-images/Ruud-Test_Website.JPG" width="375px" alt="Ruud test de website met een screenreader">
+  <img src="readme-images/Ruud-Test-Website.JPG" width="375px" alt="Ruud test de website met een screenreader">
 
   Algemeen:
   - De navigatie is onduidelijk.
@@ -153,7 +153,6 @@ Daarnaast ben ik erin geslaagd om de foto's op de galerij- en homepagina correct
 
 Ik vind het ook erg leuk om deze zomer verder te gaan en de website verder uit te breiden met alle andere projecten waar mijn vader mee bezig is.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
@@ -171,7 +170,6 @@ Ik vind het ook erg leuk om deze zomer verder te gaan en de website verder uit t
   ### Dit was lastig/Is niet gelukt:
   Tijdens het proces van het maken van de website ben ik tegen verschillende uitdagingen aangelopen. Bijna elke pagina moest ik meerdere keren opnieuw beginnen omdat de responsiviteit niet goed werkte. Ook heb ik veel moeite gehad met het linken van de foto's op de galerij- en homepagina naar de individuele foto's. Deze obstakels hebben me de nodige tijd en moeite gekost.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
 </details>
 
 
