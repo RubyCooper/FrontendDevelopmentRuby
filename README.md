@@ -92,8 +92,8 @@ Ik heb uitgebreid met mijn vader gesproken over mogelijke verbeteringen. Na het 
   - Bij verminderd contrast is de tekst nog steeds leesbaar, maar het kan moeilijk zijn.
 - Verder zijn alle teksten leesbaar (hoewel de foto's er niet meer zo mooi uitzien ;)).
 
-  <img src="readme-images/Website-Test-Kleurbeperking" width="375px" alt="Website met emulatie van kleurenblindheid">
-  <img src="readme-images/Contrast-Origineel" width="375px" alt="Website met verlaging contrast">
+  <img src="readme-images/Website-Test-Kleurbeperking.png" width="375px" alt="Website met emulatie van kleurenblindheid">
+  <img src="readme-images/Contrast-Origineel.png" width="375px" alt="Website met verlaging contrast">
 
 </details>
 
@@ -132,7 +132,7 @@ Om de gebruikerservaring te verbeteren en tegemoet te komen aan de voorkeuren va
 Kleurenblindheid:
 Hoewel de kleuren zelf onveranderd zijn gebleven, heb ik door de donkere achtergrond met witte letters het contrast sterk verbeterd. Dit draagt bij aan een betere leesbaarheid voor gebruikers met kleurenblindheid of visuele beperkingen. Het vergroten van het contrast zorgt ervoor dat de tekst duidelijker zichtbaar is en gemakkelijker te onderscheiden is van de achtergrond.
 
-<img src="readme-images/Contrast-Nieuw" width="375px" alt="Nieuwe versie website met verlaging contrast">
+<img src="readme-images/Contrast-Nieuw.png" width="375px" alt="Nieuwe versie website met verlaging contrast">
 
 </details>
 
@@ -159,14 +159,14 @@ Ik vind het ook erg leuk om deze zomer verder te gaan en de website verder uit t
   ### Dit ging goed/Heb ik geleerd: 
   Ondanks een aantal tegenslagen heb ik tijdens het bouwen van de website veel geleerd. Ik heb me vooral gericht op het gebruik van "display: grid", en dit heeft me enorm geholpen. Ik begrijp nu echt de meerwaarde ervan en hoe goed het werkt voor het creëren van een flexibele layout. Ik zal dit zeker in de toekomst opnieuw gebruiken en verder verkennen. Daarnaast ben ik ook erg blij met de kleine extratjes die ik toegevoegd aan bijvoorbeeld de gallerij waar een hover op zit zodat je die foto goed ziet en de rest wat minder. Hij wordt in het "spotlicht" gezet.
 
-  <img src="readme-images/Gallery" width="375px" alt="Foto gallerij">
-  <img src="readme-images/Gallery-Highlight" width="375px" alt="Foto gallerij">
+  <img src="readme-images/Gallery.png" width="375px" alt="Foto gallerij">
+  <img src="readme-images/Gallery-Highlight.png" width="375px" alt="Foto gallerij">
 
 
   Ook heb ik het homescherm volledig opnieuw moeten opbouwen. Dit was origineel 1 foto die in het scherm geplaatst was. Ik wilde graag gebruikers de mogelijkheid geven om meteen naar één van die fotos te kunnne. Dus moest het stuk voor stuk gepositioneerd worden. Dit heb ik met position absolute gedaan met een box waar ze allemaal netjes inblijven. Vervolgens heb ik ook nog een mobiele versie gemaakt. Hiervoor moest ik helemaal opnieuw beginnen en een nieuwe layout bedenken.
 
-  <img src="readme-images/Homescherm-Desktop" width="375px" alt="Homescherm op desktop">
-  <img src="readme-images/Homescherm-Mobiel" width="375px" alt="Homescherm op mobiel">
+  <img src="readme-images/Homescherm-Desktop.png" width="375px" alt="Homescherm op desktop">
+  <img src="readme-images/Homescherm-Mobiel.png" width="375px" alt="Homescherm op mobiel">
 
   ### Dit was lastig/Is niet gelukt:
   Tijdens het proces van het maken van de website ben ik tegen verschillende uitdagingen aangelopen. Bijna elke pagina moest ik meerdere keren opnieuw beginnen omdat de responsiviteit niet goed werkte. Ook heb ik veel moeite gehad met het linken van de foto's op de galerij- en homepagina naar de individuele foto's. Deze obstakels hebben me de nodige tijd en moeite gekost.
