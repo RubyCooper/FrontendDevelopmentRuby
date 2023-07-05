@@ -67,8 +67,8 @@ Ik heb uitgebreid met mijn vader gesproken over mogelijke verbeteringen. Na het 
 
   #### Screenreader
   - De screenreader leest de tekst niet voor en blijft hangen in de header.
-- Op de galerijpagina navigeer je verticaal in plaats van horizontaal.
-- De linkjes zijn niet duidelijk in hun functie (alleen de navigatie is begrijpelijk).
+  - Op de galerijpagina navigeer je verticaal in plaats van horizontaal.
+  - De linkjes zijn niet duidelijk in hun functie (alleen de navigatie is begrijpelijk).
 
   Dit kan waarschijnlijk makkelijk opgelost worden door een betere 'semantische' opbouw.
 
@@ -76,21 +76,21 @@ Ik heb uitgebreid met mijn vader gesproken over mogelijke verbeteringen. Na het 
 
   Algemeen:
   - De navigatie is onduidelijk.
-- Er is geen manier om terug te keren naar de homepagina.
-- Het icoon voor de galerij is onduidelijk en staat op een vreemde plek.
-- Wanneer je op een individuele foto bent, kun je niet direct naar een andere pagina gaan (je moet eerst terug naar de galerij).
+  - Er is geen manier om terug te keren naar de homepagina.
+  - Het icoon voor de galerij is onduidelijk en staat op een vreemde plek.
+  - Wanneer je op een individuele foto bent, kun je niet direct naar een andere pagina gaan (je moet eerst terug naar de galerij).
 
 
   #### Muis en Toetsenbord 
   - Je kunt niet handmatig door de linkjes navigeren (alleen met de screenreader).
-- Met de pijltjestoetsen kun je wel door de verschillende foto's bladeren.
-- Er zijn geen interessante hover-effecten.
-- Er is geen donkere/lichte modus beschikbaar.
+  - Met de pijltjestoetsen kun je wel door de verschillende foto's bladeren.
+  - Er zijn geen interessante hover-effecten.
+  - Er is geen donkere/lichte modus beschikbaar.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   - Bij verminderd contrast is de tekst nog steeds leesbaar, maar het kan moeilijk zijn.
-- Verder zijn alle teksten leesbaar (hoewel de foto's er niet meer zo mooi uitzien ;)).
+  - Verder zijn alle teksten leesbaar (hoewel de foto's er niet meer zo mooi uitzien ;)).
 
   <img src="readme-images/Website-Test-Kleurbeperking.png" width="375px" alt="Website met emulatie van kleurenblindheid">
   <img src="readme-images/Contrast-Origineel.png" width="375px" alt="Website met verlaging contrast">
@@ -169,6 +169,8 @@ Ik vind het ook erg leuk om deze zomer verder te gaan en de website verder uit t
 
   ### Dit was lastig/Is niet gelukt:
   Tijdens het proces van het maken van de website ben ik tegen verschillende uitdagingen aangelopen. Bijna elke pagina moest ik meerdere keren opnieuw beginnen omdat de responsiviteit niet goed werkte. Ook heb ik veel moeite gehad met het linken van de foto's op de galerij- en homepagina naar de individuele foto's. Deze obstakels hebben me de nodige tijd en moeite gekost.
+
+  Helaas ben ik er niet meer aan één van mijn ideeen toegekomen, dit ga ik deze zomer nog maken. Mijn idee was om op de homepagina de letters "Tuya Street...." stuk voor stuk te wisselen met chineese tekens. Zodane dat het nog wel duidelijk leesbaar is maar ook wat speelser en levendiger wordt. Daarnaast lijkt het mij leuk dat (als er een stuk meer fotos toegevoegd zijn) je kan filteren op bijvoorbeeld: mensen, gebouwen etc. Ook dit ga ik wil ik deze zomer nog toevoegen.
 
 </details>
 
